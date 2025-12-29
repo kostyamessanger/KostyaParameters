@@ -19,3 +19,6 @@
 
 ! === БЛОКИРОВКА YOUTUBE === !
 ||www.youtube.com
+
+! === БЛОКИРОВКА TELEGRAM WEB === !
+||web.telegram.org
