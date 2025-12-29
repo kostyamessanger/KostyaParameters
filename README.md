@@ -40,7 +40,7 @@
 ====================================
 
 Теперь заходим в Adguard находим "пользовательские правила" или "пользовательские фильтры"
-нажимаем "новое правило" и вводим эту ссылку! https://cdn.jsdelivr.net/gh/kostyamessanger/KostyaParameters@main/list.txt
+нажимаем "импортировать" или "импорт" и вводим эту ссылку! https://cdn.jsdelivr.net/gh/kostyamessanger/KostyaParameters@main/list.txt
 
 Готово!
 
