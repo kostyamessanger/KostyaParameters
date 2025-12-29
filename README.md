@@ -19,7 +19,8 @@
         Установить приложение для Android
     </button>
 </a>
-<a href="https://apps.apple.com/ru/app/adguard-блокировщик-рекламы/id1047223162" target="_blank">
+<a 
+      href="https://apps.apple.com/ru/app/adguard-блокировщик-рекламы/id1047223162" target="_blank">
     <button style="
         padding: 10px 20px;
         font-size: 16px;
@@ -33,3 +34,13 @@
         Установить для Iphone
     </button>
 </a>
+
+
+
+====================================
+
+Теперь заходим в Adguard находим "пользовательские правила" или "пользовательские фильтры"
+нажимаем "новое правило" и вводим эту ссылку! https://cdn.jsdelivr.net/gh/kostyamessanger/KostyaParameters@main/list.txt
+
+Готово!
+
