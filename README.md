@@ -5,7 +5,7 @@
 
 # Установка
 
-<a href="https://github.com/kostyamessanger/KostyaParameters/releases" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.adguard.android.contentblocker&hl=ru" target="_blank">
     <button style="
         padding: 10px 20px;
         font-size: 16px;
@@ -16,6 +16,6 @@
         cursor: pointer;
         text-decoration: none;
     ">
-        Установить
+        Установить приложение для Android
     </button>
 </a>
