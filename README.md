@@ -35,6 +35,22 @@
     </button>
 </a>
 
+<a href="https://chromewebstore.google.com/detail/adguard-антибаннер/bgnkhhnnamicmpeenaelnjfhikgbkllg?utm_source=item-share-cb" target="_blank">
+  <button style="
+    padding: 12px 24px;
+    font-size: 16px;
+    color: white;
+    background-color: #0078D4;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 500;
+  ">
+    Установить для Windows
+  </button>
+</a>
+
 
 
 ====================================
