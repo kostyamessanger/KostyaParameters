@@ -1,3 +1,10 @@
+                                                         \\\\\\\\\KostyaParameters///////////
+                                                                        ==2.0==
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+-------------------------------------------------------------
+
+
 ! === Блокировка TILDA === !
 ||thb.tildacdn.com^
 ||tilda.ws^
@@ -22,3 +29,12 @@
 
 ! === БЛОКИРОВКА TELEGRAM WEB === !
 ||web.telegram.org
+
+! === БЛОКИРОВКА INSTAGRAM === ! 
+||www.instagram.com
+||instagram.com
+||https://www.instagram.com
+
+
+! OFFICIAL GITHUB: https://github.com/kostyamessanger/KostyaParameters
+! OFFICIAL TELEGRAM: https://t.me/kostyaparameters
